@@ -55,7 +55,7 @@ function inicioSesion() {
         
       })
       setTimeout(() =>{
-        window.location.href = "./menu.html";
+        window.location.href = "./archivos_html/menu.html";
         console.log("timeout executed...")
     }, 2000);
     } else {
