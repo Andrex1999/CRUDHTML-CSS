@@ -51,10 +51,9 @@ body {
 	z-index: 1;
 }
 
-.team .card {
-	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
-	width: auto;
-	height: auto;
+#team .card {
+	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.45);
+	
 }
 .services .card{
     box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.40);
